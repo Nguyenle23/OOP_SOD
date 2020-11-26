@@ -1,0 +1,2 @@
+C:\Users\asus\OneDrive\Tài liệu\Unity Project\Offficial\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\Unity Project\Offficial\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
