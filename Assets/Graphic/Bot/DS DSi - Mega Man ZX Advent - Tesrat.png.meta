@@ -1,0 +1,3176 @@
+fileFormatVersion: 2
+guid: 334229b2d6a452d4bbeca69695ab230c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7487313065170889835
+    second: DS DSi - Mega Man ZX Advent - Tesrat_0
+  - first:
+      213: -1626372852932285738
+    second: DS DSi - Mega Man ZX Advent - Tesrat_1
+  - first:
+      213: 4375108093049429525
+    second: DS DSi - Mega Man ZX Advent - Tesrat_2
+  - first:
+      213: -2969552943520879974
+    second: DS DSi - Mega Man ZX Advent - Tesrat_3
+  - first:
+      213: 6253441257624344991
+    second: DS DSi - Mega Man ZX Advent - Tesrat_4
+  - first:
+      213: -5685271982186086644
+    second: DS DSi - Mega Man ZX Advent - Tesrat_5
+  - first:
+      213: -1079658758012115066
+    second: DS DSi - Mega Man ZX Advent - Tesrat_6
+  - first:
+      213: 3586039613534056744
+    second: DS DSi - Mega Man ZX Advent - Tesrat_7
+  - first:
+      213: -3083766297211160050
+    second: DS DSi - Mega Man ZX Advent - Tesrat_8
+  - first:
+      213: -5140049929983596098
+    second: DS DSi - Mega Man ZX Advent - Tesrat_9
+  - first:
+      213: 4269982999538452758
+    second: DS DSi - Mega Man ZX Advent - Tesrat_10
+  - first:
+      213: -1140360098051470867
+    second: DS DSi - Mega Man ZX Advent - Tesrat_11
+  - first:
+      213: -3173079836096695953
+    second: DS DSi - Mega Man ZX Advent - Tesrat_12
+  - first:
+      213: -4416891195559923769
+    second: DS DSi - Mega Man ZX Advent - Tesrat_13
+  - first:
+      213: 5570050920221118581
+    second: DS DSi - Mega Man ZX Advent - Tesrat_14
+  - first:
+      213: -1978103166935619625
+    second: DS DSi - Mega Man ZX Advent - Tesrat_15
+  - first:
+      213: 3681127357216433672
+    second: DS DSi - Mega Man ZX Advent - Tesrat_16
+  - first:
+      213: 1762220253276691456
+    second: DS DSi - Mega Man ZX Advent - Tesrat_17
+  - first:
+      213: 3730864236640778175
+    second: DS DSi - Mega Man ZX Advent - Tesrat_18
+  - first:
+      213: -4960702006793690419
+    second: DS DSi - Mega Man ZX Advent - Tesrat_19
+  - first:
+      213: -7998216303760068231
+    second: DS DSi - Mega Man ZX Advent - Tesrat_20
+  - first:
+      213: 7628621200149071979
+    second: DS DSi - Mega Man ZX Advent - Tesrat_21
+  - first:
+      213: 9035438847834541347
+    second: DS DSi - Mega Man ZX Advent - Tesrat_22
+  - first:
+      213: 4852532828291079481
+    second: DS DSi - Mega Man ZX Advent - Tesrat_23
+  - first:
+      213: -77794226898214465
+    second: DS DSi - Mega Man ZX Advent - Tesrat_24
+  - first:
+      213: 8549702991005000642
+    second: DS DSi - Mega Man ZX Advent - Tesrat_25
+  - first:
+      213: -490680951878457749
+    second: DS DSi - Mega Man ZX Advent - Tesrat_26
+  - first:
+      213: 5850234449036141608
+    second: DS DSi - Mega Man ZX Advent - Tesrat_27
+  - first:
+      213: 8302585199923742660
+    second: DS DSi - Mega Man ZX Advent - Tesrat_28
+  - first:
+      213: -8148273337582487055
+    second: DS DSi - Mega Man ZX Advent - Tesrat_29
+  - first:
+      213: -7523495934095761350
+    second: DS DSi - Mega Man ZX Advent - Tesrat_30
+  - first:
+      213: 8306721535903282341
+    second: DS DSi - Mega Man ZX Advent - Tesrat_31
+  - first:
+      213: -3504034853034731398
+    second: DS DSi - Mega Man ZX Advent - Tesrat_32
+  - first:
+      213: 8008801057803153429
+    second: DS DSi - Mega Man ZX Advent - Tesrat_33
+  - first:
+      213: -1887495527212904559
+    second: DS DSi - Mega Man ZX Advent - Tesrat_34
+  - first:
+      213: -4205506786392215433
+    second: DS DSi - Mega Man ZX Advent - Tesrat_35
+  - first:
+      213: -8128388801822729487
+    second: DS DSi - Mega Man ZX Advent - Tesrat_36
+  - first:
+      213: -8352041816636469435
+    second: DS DSi - Mega Man ZX Advent - Tesrat_37
+  - first:
+      213: 6684409324339167484
+    second: DS DSi - Mega Man ZX Advent - Tesrat_38
+  - first:
+      213: -6854184610148442512
+    second: DS DSi - Mega Man ZX Advent - Tesrat_39
+  - first:
+      213: 6976315414924131962
+    second: DS DSi - Mega Man ZX Advent - Tesrat_40
+  - first:
+      213: 1946620340494799702
+    second: DS DSi - Mega Man ZX Advent - Tesrat_41
+  - first:
+      213: 7026468102583210295
+    second: DS DSi - Mega Man ZX Advent - Tesrat_42
+  - first:
+      213: -7707468999154529136
+    second: DS DSi - Mega Man ZX Advent - Tesrat_43
+  - first:
+      213: -7109972924573698062
+    second: DS DSi - Mega Man ZX Advent - Tesrat_44
+  - first:
+      213: 4426781051577855413
+    second: DS DSi - Mega Man ZX Advent - Tesrat_45
+  - first:
+      213: -3440207985110261315
+    second: DS DSi - Mega Man ZX Advent - Tesrat_46
+  - first:
+      213: 7489588773499249680
+    second: DS DSi - Mega Man ZX Advent - Tesrat_47
+  - first:
+      213: 3419932259474193558
+    second: DS DSi - Mega Man ZX Advent - Tesrat_48
+  - first:
+      213: 2645959803847162068
+    second: DS DSi - Mega Man ZX Advent - Tesrat_49
+  - first:
+      213: -7066280212720382804
+    second: DS DSi - Mega Man ZX Advent - Tesrat_50
+  - first:
+      213: 1833122168823502857
+    second: DS DSi - Mega Man ZX Advent - Tesrat_51
+  - first:
+      213: -8767097238688538837
+    second: DS DSi - Mega Man ZX Advent - Tesrat_52
+  - first:
+      213: 243140823872669212
+    second: DS DSi - Mega Man ZX Advent - Tesrat_53
+  - first:
+      213: 2429944863818056612
+    second: DS DSi - Mega Man ZX Advent - Tesrat_54
+  - first:
+      213: -3193491144626632811
+    second: DS DSi - Mega Man ZX Advent - Tesrat_55
+  - first:
+      213: 7723227515587400275
+    second: DS DSi - Mega Man ZX Advent - Tesrat_56
+  - first:
+      213: 6963467698677305838
+    second: DS DSi - Mega Man ZX Advent - Tesrat_57
+  - first:
+      213: 8392985763739122673
+    second: DS DSi - Mega Man ZX Advent - Tesrat_58
+  - first:
+      213: 3652743082039296759
+    second: DS DSi - Mega Man ZX Advent - Tesrat_59
+  - first:
+      213: -3621371850117267454
+    second: DS DSi - Mega Man ZX Advent - Tesrat_60
+  - first:
+      213: 5873608472027437787
+    second: DS DSi - Mega Man ZX Advent - Tesrat_61
+  - first:
+      213: 4349449904598320251
+    second: DS DSi - Mega Man ZX Advent - Tesrat_62
+  - first:
+      213: -754306363442387296
+    second: DS DSi - Mega Man ZX Advent - Tesrat_63
+  - first:
+      213: 1952396369413303316
+    second: DS DSi - Mega Man ZX Advent - Tesrat_64
+  - first:
+      213: 641361573751029706
+    second: DS DSi - Mega Man ZX Advent - Tesrat_65
+  - first:
+      213: -757526792506981758
+    second: DS DSi - Mega Man ZX Advent - Tesrat_66
+  - first:
+      213: 2574899889911581798
+    second: DS DSi - Mega Man ZX Advent - Tesrat_67
+  - first:
+      213: 6498630952417918962
+    second: DS DSi - Mega Man ZX Advent - Tesrat_68
+  - first:
+      213: 5378476523165749163
+    second: DS DSi - Mega Man ZX Advent - Tesrat_69
+  - first:
+      213: -3286571890858270702
+    second: DS DSi - Mega Man ZX Advent - Tesrat_70
+  - first:
+      213: 2228306179708453731
+    second: DS DSi - Mega Man ZX Advent - Tesrat_71
+  - first:
+      213: -8123644321786726853
+    second: DS DSi - Mega Man ZX Advent - Tesrat_72
+  - first:
+      213: 7044464676119300324
+    second: DS DSi - Mega Man ZX Advent - Tesrat_73
+  - first:
+      213: 7392396271447930872
+    second: DS DSi - Mega Man ZX Advent - Tesrat_74
+  - first:
+      213: 6334141954359840844
+    second: DS DSi - Mega Man ZX Advent - Tesrat_75
+  - first:
+      213: -8686482392469926796
+    second: DS DSi - Mega Man ZX Advent - Tesrat_76
+  - first:
+      213: 3216379784807864885
+    second: DS DSi - Mega Man ZX Advent - Tesrat_77
+  - first:
+      213: -3067367413476624968
+    second: DS DSi - Mega Man ZX Advent - Tesrat_78
+  - first:
+      213: -1910646353388807713
+    second: DS DSi - Mega Man ZX Advent - Tesrat_79
+  - first:
+      213: -8715061510626300946
+    second: DS DSi - Mega Man ZX Advent - Tesrat_80
+  - first:
+      213: 4134635801987811881
+    second: DS DSi - Mega Man ZX Advent - Tesrat_81
+  - first:
+      213: -7767994495885367138
+    second: DS DSi - Mega Man ZX Advent - Tesrat_82
+  - first:
+      213: -655008884638560513
+    second: DS DSi - Mega Man ZX Advent - Tesrat_83
+  - first:
+      213: 7199338512483080019
+    second: DS DSi - Mega Man ZX Advent - Tesrat_84
+  - first:
+      213: 2957344292656339320
+    second: DS DSi - Mega Man ZX Advent - Tesrat_85
+  - first:
+      213: 492290201551579194
+    second: DS DSi - Mega Man ZX Advent - Tesrat_86
+  - first:
+      213: 455350926168714311
+    second: DS DSi - Mega Man ZX Advent - Tesrat_87
+  - first:
+      213: -1217821677761156261
+    second: DS DSi - Mega Man ZX Advent - Tesrat_88
+  - first:
+      213: 2599987946298734352
+    second: DS DSi - Mega Man ZX Advent - Tesrat_89
+  - first:
+      213: -5707581599418579611
+    second: DS DSi - Mega Man ZX Advent - Tesrat_90
+  - first:
+      213: -1453333012896841194
+    second: DS DSi - Mega Man ZX Advent - Tesrat_91
+  - first:
+      213: 5280540824826621735
+    second: DS DSi - Mega Man ZX Advent - Tesrat_92
+  - first:
+      213: 4511200423516895120
+    second: DS DSi - Mega Man ZX Advent - Tesrat_93
+  - first:
+      213: 5455982037584139658
+    second: DS DSi - Mega Man ZX Advent - Tesrat_94
+  - first:
+      213: -5502437986092246169
+    second: DS DSi - Mega Man ZX Advent - Tesrat_95
+  - first:
+      213: -3225184346284771990
+    second: DS DSi - Mega Man ZX Advent - Tesrat_96
+  - first:
+      213: 5815637012193925759
+    second: DS DSi - Mega Man ZX Advent - Tesrat_97
+  - first:
+      213: -3231370168629205237
+    second: DS DSi - Mega Man ZX Advent - Tesrat_98
+  - first:
+      213: -2795564603538697619
+    second: DS DSi - Mega Man ZX Advent - Tesrat_99
+  - first:
+      213: -6213491295822649435
+    second: DS DSi - Mega Man ZX Advent - Tesrat_100
+  - first:
+      213: 2349699519535189534
+    second: DS DSi - Mega Man ZX Advent - Tesrat_101
+  - first:
+      213: 8912477117221783334
+    second: DS DSi - Mega Man ZX Advent - Tesrat_102
+  - first:
+      213: -2287787899521116379
+    second: DS DSi - Mega Man ZX Advent - Tesrat_103
+  - first:
+      213: -6494988432316418594
+    second: DS DSi - Mega Man ZX Advent - Tesrat_104
+  - first:
+      213: 9127548616702419571
+    second: DS DSi - Mega Man ZX Advent - Tesrat_105
+  - first:
+      213: 2814604558206166745
+    second: DS DSi - Mega Man ZX Advent - Tesrat_106
+  - first:
+      213: 834304233335352004
+    second: DS DSi - Mega Man ZX Advent - Tesrat_107
+  - first:
+      213: -4700095898385455857
+    second: DS DSi - Mega Man ZX Advent - Tesrat_108
+  - first:
+      213: -3387626981474401816
+    second: DS DSi - Mega Man ZX Advent - Tesrat_109
+  - first:
+      213: 2543352566401782636
+    second: DS DSi - Mega Man ZX Advent - Tesrat_110
+  - first:
+      213: 6703629683341019038
+    second: DS DSi - Mega Man ZX Advent - Tesrat_111
+  - first:
+      213: 1268162886839775223
+    second: DS DSi - Mega Man ZX Advent - Tesrat_112
+  - first:
+      213: -4893096000868029454
+    second: DS DSi - Mega Man ZX Advent - Tesrat_113
+  - first:
+      213: -3122955931704432931
+    second: DS DSi - Mega Man ZX Advent - Tesrat_114
+  - first:
+      213: 6122267580457820028
+    second: DS DSi - Mega Man ZX Advent - Tesrat_115
+  - first:
+      213: -3680559308182664394
+    second: DS DSi - Mega Man ZX Advent - Tesrat_116
+  - first:
+      213: -1172784002827273857
+    second: DS DSi - Mega Man ZX Advent - Tesrat_117
+  - first:
+      213: -4186585053173523498
+    second: DS DSi - Mega Man ZX Advent - Tesrat_118
+  - first:
+      213: -2378560303481735764
+    second: DS DSi - Mega Man ZX Advent - Tesrat_119
+  - first:
+      213: -1889443081700634241
+    second: DS DSi - Mega Man ZX Advent - Tesrat_120
+  - first:
+      213: -3406581931411923573
+    second: DS DSi - Mega Man ZX Advent - Tesrat_121
+  - first:
+      213: -2041216806019664402
+    second: DS DSi - Mega Man ZX Advent - Tesrat_122
+  - first:
+      213: 5345811744966811568
+    second: DS DSi - Mega Man ZX Advent - Tesrat_123
+  - first:
+      213: -3414023245553936027
+    second: DS DSi - Mega Man ZX Advent - Tesrat_124
+  - first:
+      213: 1237063879398673932
+    second: DS DSi - Mega Man ZX Advent - Tesrat_125
+  - first:
+      213: -3018232630110978497
+    second: DS DSi - Mega Man ZX Advent - Tesrat_126
+  - first:
+      213: 3947515950864236855
+    second: DS DSi - Mega Man ZX Advent - Tesrat_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 19
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 848
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce6a3309748e760800000000000000
+      internalID: 7487313065170889835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 847
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae1a4d186fd69e0800000000000000
+      internalID: -1626372852932285738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 851
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ed52c51a187bc30800000000000000
+      internalID: 4375108093049429525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 858
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae8bbc4570ac6d0800000000000000
+      internalID: -2969552943520879974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 850
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99987011bfa8c650800000000000000
+      internalID: 6253441257624344991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 800
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f315a014bd911b0800000000000000
+      internalID: -5685271982186086644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 800
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876c0274184401f0800000000000000
+      internalID: -1079658758012115066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 800
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213d23670c24c130800000000000000
+      internalID: 3586039613534056744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 800
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a386424e24435d0800000000000000
+      internalID: -3083766297211160050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 800
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb96e8362dfdaa8b0800000000000000
+      internalID: -5140049929983596098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 800
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619427c2ae6024b30800000000000000
+      internalID: 4269982999538452758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 800
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9cc9f5880ac20f0800000000000000
+      internalID: -1140360098051470867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 800
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61708563b4f6f3d0800000000000000
+      internalID: -3173079836096695953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 800
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa91dfbdc04b2c0800000000000000
+      internalID: -4416891195559923769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 800
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701e90fccbcc4d40800000000000000
+      internalID: 5570050920221118581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 755
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d72abd66ad5c84e0800000000000000
+      internalID: -1978103166935619625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 756
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806abd3f3ddf51330800000000000000
+      internalID: 3681127357216433672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 756
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5e84dbf9a47810800000000000000
+      internalID: 1762220253276691456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 756
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7be2a9141b6c330800000000000000
+      internalID: 3730864236640778175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 755
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ae78cecb082bb0800000000000000
+      internalID: -4960702006793690419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 756
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971b4a9e5a0a00190800000000000000
+      internalID: -7998216303760068231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 755
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6846e8309e4ed960800000000000000
+      internalID: 7628621200149071979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 755
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d41f2a2c3546d70800000000000000
+      internalID: 9035438847834541347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 703
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1633c5e8a75340800000000000000
+      internalID: 4852532828291079481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 707
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e724109e9beef0800000000000000
+      internalID: -77794226898214465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 706
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3a2f17295a6a670800000000000000
+      internalID: 8549702991005000642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 708
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66eb352640c039f0800000000000000
+      internalID: -490680951878457749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 709
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246d8b4c35303150800000000000000
+      internalID: 5850234449036141608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 703
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ced61045b83370800000000000000
+      internalID: 8302585199923742660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 659
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9fb9422948bee80800000000000000
+      internalID: -8148273337582487055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 654
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3060232f4c279790800000000000000
+      internalID: -7523495934095761350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 656
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a43a9bd937674370800000000000000
+      internalID: 8306721535903282341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 656
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d648cdda2f5fc0800000000000000
+      internalID: -3504034853034731398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 653
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510312f212af42f60800000000000000
+      internalID: 8008801057803153429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 656
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f065181d44ec5e0800000000000000
+      internalID: -1887495527212904559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 656
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f8980cd903a5c0800000000000000
+      internalID: -4205506786392215433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 656
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad7176379223f80800000000000000
+      internalID: -8128388801822729487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 657
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fcc220836971c80800000000000000
+      internalID: -8352041816636469435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 608
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08b8e6ddac3cc50800000000000000
+      internalID: 6684409324339167484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 607
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e172f796b01e0a0800000000000000
+      internalID: -6854184610148442512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 608
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e72a368e9d0d060800000000000000
+      internalID: 6976315414924131962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 609
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6531eb3d2e8c30b10800000000000000
+      internalID: 1946620340494799702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_42
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 609
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d510f287038160800000000000000
+      internalID: 7026468102583210295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 562
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c0f0cf7c1990590800000000000000
+      internalID: -7707468999154529136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 562
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b32c9b4d445d90800000000000000
+      internalID: -7109972924573698062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 564
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6abd89e51f6d30800000000000000
+      internalID: 4426781051577855413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 564
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db16a06801de140d0800000000000000
+      internalID: -3440207985110261315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 564
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142d26de4d50f760800000000000000
+      internalID: 7489588773499249680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 562
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cbbd9354a067f20800000000000000
+      internalID: 3419932259474193558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 571
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b5463c6658b420800000000000000
+      internalID: 2645959803847162068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 571
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0e65d5978fed90800000000000000
+      internalID: -7066280212720382804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_51
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 572
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085e9676ee807910800000000000000
+      internalID: 1833122168823502857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 574
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f59a0f283055680800000000000000
+      internalID: -8767097238688538837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 516
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1683558a4fcf5300800000000000000
+      internalID: 243140823872669212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 516
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a309afaaf5e8b120800000000000000
+      internalID: 2429944863818056612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978c2b49b07ea3d0800000000000000
+      internalID: -3193491144626632811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_56
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 516
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521c1a818a6e2b60800000000000000
+      internalID: 7723227515587400275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 512
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee151985af433a060800000000000000
+      internalID: 6963467698677305838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 513
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb49c8510e97470800000000000000
+      internalID: 8392985763739122673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 515
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c7b4ea7621b230800000000000000
+      internalID: 3652743082039296759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 517
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200492a3d7d4ebdc0800000000000000
+      internalID: -3621371850117267454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_61
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 520
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9bec19cf338150800000000000000
+      internalID: 5873608472027437787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 468
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7480f3d4a95c5c30800000000000000
+      internalID: 4349449904598320251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 468
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62333eb5a2885f0800000000000000
+      internalID: -754306363442387296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 469
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c64ab572e481b10800000000000000
+      internalID: 1952396369413303316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 469
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff30804f296e800800000000000000
+      internalID: 641361573751029706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 468
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c7c05569bc75f0800000000000000
+      internalID: -757526792506981758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 475
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4f56bec1ebb320800000000000000
+      internalID: 2574899889911581798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 475
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7a358b66cf2a50800000000000000
+      internalID: 6498630952417918962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 475
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf8214c6ef24aa40800000000000000
+      internalID: 5378476523165749163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_70
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 475
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210eb9c3740c362d0800000000000000
+      internalID: -3286571890858270702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_71
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 424
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36384541aa88cee10800000000000000
+      internalID: 2228306179708453731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 424
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36784eb784034f80800000000000000
+      internalID: -8123644321786726853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 424
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c0ecbc47f2c160800000000000000
+      internalID: 7044464676119300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_74
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 430
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f773960e31179660800000000000000
+      internalID: 7392396271447930872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_75
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 430
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40548a3c8467e750800000000000000
+      internalID: 6334141954359840844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_76
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 430
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0529794a637780800000000000000
+      internalID: -8686482392469926796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 377
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a58388f50e2ac20800000000000000
+      internalID: 3216379784807864885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 377
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5fd1cc6958e65d0800000000000000
+      internalID: -3067367413476624968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 377
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd95ddeb3450c75e0800000000000000
+      internalID: -1910646353388807713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_80
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 375
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba07ffab1ed0780800000000000000
+      internalID: -8715061510626300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 375
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a881d0b5d216930800000000000000
+      internalID: 4134635801987811881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 375
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98209f992a823490800000000000000
+      internalID: -7767994495885367138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 328
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec46ac3e0f8e6f0800000000000000
+      internalID: -655008884638560513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_84
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 328
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d75ebb3039e360800000000000000
+      internalID: 7199338512483080019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 328
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795f4a27f89a0920800000000000000
+      internalID: 2957344292656339320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_86
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 328
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3823ed7457f4d600800000000000000
+      internalID: 492290201551579194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 328
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6e6a314bb15600800000000000000
+      internalID: 455350926168714311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_88
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 328
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba649e2ad691fe0800000000000000
+      internalID: -1217821677761156261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_89
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 328
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017fe670343051420800000000000000
+      internalID: 2599987946298734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565891086c89ac0b0800000000000000
+      internalID: -5707581599418579611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_91
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 328
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128fe92359b4dbe0800000000000000
+      internalID: -1453333012896841194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 328
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2db517ef384940800000000000000
+      internalID: 5280540824826621735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_93
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 277
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f05242e00b9e30800000000000000
+      internalID: 4511200423516895120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 295
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a855d1391ca87bb40800000000000000
+      internalID: 5455982037584139658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_95
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 277
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1b580ec963a3b0800000000000000
+      internalID: -5502437986092246169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 277
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bb80cce7dd33d0800000000000000
+      internalID: -3225184346284771990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 273
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ade6ecc0b45b050800000000000000
+      internalID: 5815637012193925759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_98
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 274
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ef01c3fdd723d0800000000000000
+      internalID: -3231370168629205237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_99
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 277
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629b6bfdc82439d0800000000000000
+      internalID: -2795564603538697619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_100
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 277
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a76281469e35c9a0800000000000000
+      internalID: -6213491295822649435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 280
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0dc6834fcb9020800000000000000
+      internalID: 2349699519535189534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 217
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274dc0c7ba7fab70800000000000000
+      internalID: 8912477117221783334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_103
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 216
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275b9fc6052040e0800000000000000
+      internalID: -2287787899521116379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 216
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed53287ce6a2dd5a0800000000000000
+      internalID: -6494988432316418594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_105
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 217
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e7a86b119bae70800000000000000
+      internalID: 9127548616702419571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_106
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 217
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6e21beeeb7f0720800000000000000
+      internalID: 2814604558206166745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_107
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 161
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caee86a74b049b00800000000000000
+      internalID: 834304233335352004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_108
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e67ebea7e5ceb0800000000000000
+      internalID: -4700095898385455857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 161
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e180b1753bbcf0d0800000000000000
+      internalID: -3387626981474401816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d4f21fadcb4320800000000000000
+      internalID: 2543352566401782636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 161
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e974e4dfda3180d50800000000000000
+      internalID: 6703629683341019038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_112
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 198
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff2b633d6b699110800000000000000
+      internalID: 1268162886839775223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_113
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 164
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6068ac1b381cb0800000000000000
+      internalID: -4893096000868029454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 164
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ee81502809a4d0800000000000000
+      internalID: -3122955931704432931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_115
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f14116de9a6f450800000000000000
+      internalID: 6122267580457820028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 188
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc3054fc60cecc0800000000000000
+      internalID: -3680559308182664394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 164
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793831c92f69bfe0800000000000000
+      internalID: -1172784002827273857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_118
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 164
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd1ab531346e5c0800000000000000
+      internalID: -4186585053173523498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_119
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 114
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca530229108adfed0800000000000000
+      internalID: -2378560303481735764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_120
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 114
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711ae3278957c5e0800000000000000
+      internalID: -1889443081700634241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9def38c369b0d0800000000000000
+      internalID: -3406581931411923573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 114
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f3a731242ca3e0800000000000000
+      internalID: -2041216806019664402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_123
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 114
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9bde6573203a40800000000000000
+      internalID: 5345811744966811568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_124
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d4d942f3fe90d0800000000000000
+      internalID: -3414023245553936027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_125
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 114
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e46084b0fea2110800000000000000
+      internalID: 1237063879398673932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_126
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 94
+        width: 127
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efdb80a651d16d0800000000000000
+      internalID: -3018232630110978497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mega Man ZX Advent - Tesrat_127
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 142
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731837ca7d468c630800000000000000
+      internalID: 3947515950864236855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
